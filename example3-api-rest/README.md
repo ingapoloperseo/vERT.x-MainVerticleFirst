@@ -41,9 +41,3 @@ Se publicará el API sensors con los verbos de sus operaciones:
 
 Para arrancarlo de este modo se deben seguir las instrucciones disponibles en la documentación de la raíz de los ejemplos, siendo el Verticle a ejecutar **com.vertx.example3.Example3MainVerticle**
 
-#### **Equipo de desarrollo** 
---------
-
- - J.Manuel García Rozas (Arquitecto) jmgrozas@gmail.com 
- - Ernesto Valero (Arquitecto de sistemas) evalero@paradigmadigital.com
- - Teresa Quintano (Front Developer) tquintano@paradigmadigital.com
