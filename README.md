@@ -1,12 +1,12 @@
 ### Curso Vert.x | : Ejemplos: "El nacimiento de un super Saiyan"
 --------
 La totalidad de este ejemplo y codigo es creación de [Paradigma Digital]( https://www.paradigmadigital.com/). La fuente original la podéis encontrar [aquí](https://github.com/paradigmadigital/curso-vertx-1).
-La intencion de realizar este repositorio es para uso personal y ademas para clarificar:
+La intencion de realizar este repositorio es solo para uso personal y para que yo no olvide como se resolvieron los siguientes puntos ya que es la primera ves que genero codigo en ambientes libres:
 ``` 
-	1. La dependencia de Lib Microservice Common, que yo agregue dentro del mismo repositorio.
+	1. Resolver la dependencia de Lib Microservice Common, que yo agregue dentro del mismo repositorio a diferencia del ropositorio original.
 	2. La generacion de codigo en el manejo de los Vert.x service proxies la clase SensorDTOConverter.
 ```
-Fue creado como curso por un exclente equipo de desarrollo:
+Este excelente ejemplo fue creado como curso por un exclente equipo de desarrollo:
  - J.Manuel García Rozas (Arquitecto) 
  - Ernesto Valero (Arquitecto de sistemas) 
  - Teresa Quintano (Front Developer)  
@@ -21,7 +21,7 @@ Fue creado como curso por un exclente equipo de desarrollo:
 
 Librería perteneciente al ejemplo de microservicios en Vert.x, que en este repositorio esta con el nombre de "curso-vertx-libs-master". La fuente original la puedes encontrar [aquí](http://www.sczyh30.com/vertx-blueprint-microservice/index.html#blueprint-common-module).
 
->Se debe ejecutar la construcción de esta librería ya que los ejemplos hacen uso de ella de la siguiente manera:
+>Se debe ejecutar la construcción de esta librería ya que los ejemplos hacen uso de ella, la construccion se resuelve de la siguiente manera:
 ```
   1. En un CMD deberas navegar en el cmd a la carperta que contiene el codigo principal en la carpeta curso-vertx-libs-master
   2. Deberas compilar "mvn compile"
