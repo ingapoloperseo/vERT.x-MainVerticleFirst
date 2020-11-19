@@ -1,9 +1,11 @@
 ### Curso Vert.x | : Ejemplos: "El nacimiento de un super Saiyan"
 --------
-La totalidad de este ejemplo y codigo es creación de [Paradigma Digital]( https://www.paradigmadigital.com/). La fuente original la podéis encontrar [aquí](https://github.com/paradigmadigital/curso-vertx-1)
-La intencion de realizar este repositorio es para uso personal y ademas para clarificar 2 puntos:
+La totalidad de este ejemplo y codigo es creación de [Paradigma Digital]( https://www.paradigmadigital.com/). La fuente original la podéis encontrar [aquí](https://github.com/paradigmadigital/curso-vertx-1).
+La intencion de realizar este repositorio es para uso personal y ademas para clarificar:
+``` 
 	1. La dependencia de Lib Microservice Common, que yo agregue dentro del mismo repositorio.
 	2. La generacion de codigo en el manejo de los Vert.x service proxies la clase SensorDTOConverter.
+```
 Fue creado como curso por un exclente equipo de desarrollo:
  - J.Manuel García Rozas (Arquitecto) 
  - Ernesto Valero (Arquitecto de sistemas) 
