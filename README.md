@@ -3,7 +3,7 @@
 La totalidad de este ejemplo y codigo es creación de [Paradigma Digital]( https://www.paradigmadigital.com/). La fuente original la podéis encontrar [aquí](https://github.com/paradigmadigital/curso-vertx-1).
 La intencion de realizar este repositorio es solo para uso personal y para que yo no olvide como se resolvieron los siguientes puntos ya que es la primera ves que genero codigo en ambientes libres:
 ``` 
-	1. Resolver la dependencia de Lib Microservice Common, que yo agregue dentro del mismo repositorio a diferencia del ropositorio original.
+	1. Resolver la dependencia de Lib Microservice Common, que yo agregue dentro del mismo repositorio a diferencia del ropositorio [original](https://github.com/paradigmadigital/curso-vertx-1).
 	2. La generacion de codigo en el manejo de los Vert.x service proxies la clase SensorDTOConverter.
 ```
 Este excelente ejemplo fue creado como curso por un exclente equipo de desarrollo:
