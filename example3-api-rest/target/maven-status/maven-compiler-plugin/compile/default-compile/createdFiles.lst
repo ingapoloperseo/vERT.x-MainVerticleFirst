@@ -1,0 +1,17 @@
+com\vertx\example3\Example3MainVerticle.class
+example3-api-rest-js\sensor_service.js
+com\vertx\example3\service\syncsensor\impl\SensorSyncServiceImpl.class
+com\vertx\example3\service\rxjava\sensor\SensorService.class
+example3-api-rest-js\sensor_service-proxy.js
+com\vertx\example3\package-info.class
+com\vertx\example3\service\sensor\dto\SensorDTOConverter.class
+com\vertx\example3\service\sensor\dto\SensorDTO.class
+com\vertx\example3\service\sensor\impl\SensorServiceImpl.class
+com\vertx\example3\service\sensor\SensorServiceVertxProxyHandler.class
+com\vertx\example3\service\sensor\SensorServiceVertxEBProxy.class
+com\vertx\example3\Example3HttpServerVerticle.class
+com\vertx\example3\service\sensor\SensorService.class
+com\vertx\example3\service\syncsensor\verticle\SensorWorkerGetVerticle.class
+com\vertx\example3\service\sensor\SensorServiceProvider.class
+com\vertx\example3\service\syncsensor\impl\SensorSyncServiceImpl$Builder.class
+com\vertx\example3\service\sensor\package-info.class
